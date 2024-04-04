@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arasrasouli
-- 👀 I’m interested in .NET Core, C#, Node.JS
+- 👀 I’m interested in .NET Core, C#, Node.JS and TypeScript
 - 🌱 I’m currently learning Node.JS, AWS Lambda
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
