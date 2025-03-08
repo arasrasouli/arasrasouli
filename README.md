@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=microservices&logoColor=white)
 ![Event-Driven](https://img.shields.io/badge/Event%20Driven-FFA500?style=for-the-badge&logo=eventbrite&logoColor=white)
-
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 - 👋 Hi, I’m @arasrasouli
 - 👀 I’m interested in .NET, C#, Azure, Node.JS, Vue and TypeScript
 
